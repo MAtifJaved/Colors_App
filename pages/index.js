@@ -4,13 +4,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>My practice React app</title>
+        <title>Colors_App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-          Welcome to Engr. Muhammad Atif Javed Credentials
+          Colors_App
         </h1>
 
         <p className="description">
